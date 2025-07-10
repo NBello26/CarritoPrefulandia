@@ -1,0 +1,10 @@
+com\perfulandia\carritoservice\model\Carrito.class
+com\perfulandia\carritoservice\model\Producto$ProductoBuilder.class
+com\perfulandia\carritoservice\model\Usuario.class
+com\perfulandia\carritoservice\controller\CarritoController$CarritoResponse.class
+com\perfulandia\carritoservice\service\CarritoService.class
+com\perfulandia\carritoservice\model\Producto.class
+com\perfulandia\carritoservice\model\Carrito$CarritoBuilder.class
+com\perfulandia\carritoservice\controller\CarritoController.class
+com\perfulandia\carritoservice\CarritoserviceApplication.class
+com\perfulandia\carritoservice\repository\CarritoRepository.class
